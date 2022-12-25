@@ -1,5 +1,12 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "ua.pp.rcube.twa",
-    "sha256_cert_fingerprints": ["85:4F:F2:F2:34:35:A0:3D:38:4F:C3:98:AE:E5:B0:1E:1E:B0:A5:99:3D:D4:82:47:86:66:4C:52:5B:61:44:94"] }
+  "relation": [
+    "delegate_permission/common.handle_all_urls"
+  ],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ua.pp.rcube.app",
+    "sha256_cert_fingerprints": [
+      "C6:9E:95:83:6C:D0:27:E5:41:37:72:0F:49:9B:2A:74:25:9C:4D:9F:FC:85:D7:A7:4D:01:A4:B3:79:07:C0:73"
+    ]
+  }
 }]
