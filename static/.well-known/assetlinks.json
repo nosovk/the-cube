@@ -1,5 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "ua.pp.rcube.twa",
-    "sha256_cert_fingerprints": ["1A:10:E8:14:F6:6B:7D:41:55:0A:9E:B2:3B:94:67:AB:18:B2:EC:91:13:57:71:51:67:49:B4:F4:AF:87:72:08"] }
+    "sha256_cert_fingerprints": ["85:4F:F2:F2:34:35:A0:3D:38:4F:C3:98:AE:E5:B0:1E:1E:B0:A5:99:3D:D4:82:47:86:66:4C:52:5B:61:44:94"] }
 }]
