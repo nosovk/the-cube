@@ -7,7 +7,7 @@ Fork was done to test publication of TWA in android play store.
 
 Site published to https://rcube.pp.ua/
 
-Game published to https://play.google.com/store/apps/details?id=ua.pp.rcube.twa
+Game published to https://play.google.com/store/apps/details?id=ua.pp.rcube.app
 
 To pass validation some cosmetic changes was applied, like new Three.js version, another bundler, obsolete webworker replaced with workbox etc.
 
